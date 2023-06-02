@@ -1,1 +1,1 @@
-# ChurnPrediction
+# churn-prediction
